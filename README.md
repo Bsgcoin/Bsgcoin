@@ -38,12 +38,12 @@ Welcome to the future!
 *	since block 301       : 15
 *	since block 401       : 25
 *	since block 1,500     : 15
-*       since block 40,001    : 12
-*       since block 200,001   : 10
-*       since block 400,001   : 8
-*       since block 1,000,001 : 6
-*       since block 2,000,001 : 3
-*       Last PoW Block : 4,000,000
+* since block 40,001    : 12
+* since block 200,001   : 10
+* since block 400,001   : 8
+* since block 1,000,001 : 6
+* since block 2,000,001 : 3
+* Last PoW Block : 4,000,000
 
 
 ##### PoS-Maternode Rewards:
@@ -52,9 +52,9 @@ Welcome to the future!
 *	since block 40,000    : 26
 *	since block 200,001   : 18
 *	since block 400,001   : 12
-*       since block 1,000,001 : 8
-*       since block 2,000,001 : 6
-*       since block 4,000,001 : 2
+* since block 1,000,001 : 8
+* since block 2,000,001 : 6
+* since block 4,000,001 : 2
 
 ###### License
 
