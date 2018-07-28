@@ -56,6 +56,7 @@ Welcome to the future!
 * since block 2,000,001 : 6
 * since block 4,000,001 : 2
 
+
 ###### License
 
 Bsgcoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
